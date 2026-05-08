@@ -14,7 +14,7 @@ const cors = require('cors')
 // console.log("Hello")
 
 app.use(cors({
-    origin: 'http://localhost:5174',
+    origin: 'http://localhost:5178',
     credentials: true 
 }))
 
